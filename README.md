@@ -2,11 +2,11 @@
 - 🔭 Argentino.
 - 🧠 Con ambicion por aprender y experimentar.
 - 🤔 Realizando proyectos para mejorar mis habilidades.
-- 🌱 Actualmente estoy aprendiendo TypeSctipt y PHP.
+- 🌱 Actualmente estoy aprendiendo C#
 
 ## Conocimientos:
 - Frontend
-  >HTML, CSS, Javascript, Node.js, React.
+  >HTML, CSS, Javascript, Typescript, Node.js, React, Vue.js.
 - Backend
   > Express, SQL, Firebase, MongoDB.
   
